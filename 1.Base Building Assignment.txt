@@ -1,0 +1,179 @@
+﻿
+1.FSWD-Base Building Assignment
+
+Q1.What is the Internet? Explain in your own words.
+
+Q2.What is  web browser? Explain in your own words.
+
+Q3.What is  browser engine? Explain in your own words.
+
+Q4.What is  static site? Explain in your own words.
+
+Q5.What is a dynamic site? Explain in your own words.
+
+Note: Please create a Google Document and write your answers 
+and upload the shareable link of the Google
+Document with view access during the submission of assignment.
+
+...............................................................
+
+Q1.What is the Internet? Explain in your own words.
+
+A.The Internet is a vast global network that connects millions 
+of computers and devices, allowing them to communicate and 
+share information with each other. It acts like a virtual 
+highway that carries data, enabling people to access websites, 
+send emails, stream videos, use social media, and more. 
+Essentially, the Internet is the backbone of the digital 
+world, enabling various services and applications to operate, 
+and making information accessible from almost anywhere in the world.
+
+
+Q2.What is  web browser? Explain in your own words.
+
+A.A web browser is a software application that allows users to 
+access and view websites on the Internet. It acts as a bridge 
+between you and the vast amount of information available online. 
+When you enter a website's address or click on a link, the web 
+browser retrieves the content from the Internet and displays 
+it on your screen. Popular web browsers include Google Chrome, 
+Mozilla Firefox, Microsoft Edge, and Safari. They enable you 
+to browse, search, and interact with web pages, watch videos, 
+read articles, and use online services.
+
+
+Q3.What is  browser engine? Explain in your own words.
+
+A.A browser engine is the core part of a web browser that interprets 
+and processes the code of a website, transforming it into the 
+text, images, and interactive elements you see on your screen. 
+It acts as the middleman between the web content (HTML, CSS, 
+JavaScript) and the visual display. The engine handles tasks 
+like layout rendering, interpreting scripts, and handling user 
+input, ensuring that websites look and function correctly.
+
+For example, in Google Chrome and Microsoft Edge, the browser 
+engine is Blink, while in Firefox, it's Gecko. The engine is 
+crucial in making sure that the websites load and behave as 
+intended across different devices and platforms.
+
+
+Q4.What is  static site? Explain in your own words.
+
+A.A static site is a type of website that displays fixed content, 
+meaning that the pages are pre-built and do not change dynamically 
+based on user input or other data. Each page of a static site is 
+created with HTML, CSS, and sometimes JavaScript, and is served 
+to users exactly as it is stored on the server.
+
+Unlike dynamic sites, which generate content on the fly (e.g., 
+using databases or server-side scripts), static sites are 
+straightforward and load quickly because there is no need for 
+real-time processing. Static sites are often used for simple 
+websites like blogs, portfolios, or informational pages where 
+the content doesn't need to change frequently.
+
+
+Q5.What is a dynamic site? Explain in your own words.
+
+A.A dynamic site is a website that generates and displays content 
+in real-time based on user interactions, data, or other conditions. 
+Unlike static sites, where the content is fixed, dynamic sites 
+pull data from databases or external sources, and the pages are 
+created on-the-fly. This allows the website to display different 
+content to different users, or update content automatically 
+without requiring manual changes.
+
+For example, social media platforms, e-commerce sites, and 
+news websites are dynamic because they show personalized content, 
+user-generated content, or frequently updated information. 
+Dynamic sites often use server-side languages like PHP, Python, 
+or Node.js, combined with databases, to deliver interactive 
+and adaptable web experiences.
+
+
+.................................................................
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
